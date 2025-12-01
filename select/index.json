@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "そばにいるね",
+  "base_artist": "Thelma Aoyama",
+  "createdAt": "2025-12-01T12:41:06.004341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そばにいるね (feat. SoulJa)",
+      "artist": "青山テルマ × SOL from BIGBANG",
+      "has_synced": true,
+      "path": "select/01_そばにいるね_(feat._SoulJa)_青山テルマ_×_SOL_from_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そばにいるね",
+      "artist": "青山テルマ",
+      "has_synced": true,
+      "path": "select/02_そばにいるね_青山テルマ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "そばにいるね",
+      "artist": "ribbon",
+      "has_synced": true,
+      "path": "select/03_そばにいるね_ribbon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "そばにいるね - Sobaniirune (feat. Soulja)",
+      "artist": "Thelma Aoyama",
+      "has_synced": true,
+      "path": "select/04_そばにいるね_-_Sobaniirune_(feat._Soulja)_Thelma_Aoyama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "そばにいるね",
+      "artist": "Thelma Aoyama, SoulJa",
+      "has_synced": true,
+      "path": "select/05_そばにいるね_Thelma_Aoyama,_SoulJa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "そばにいるね",
+      "artist": "Thelma Aoyama",
+      "has_synced": true,
+      "path": "select/06_そばにいるね_Thelma_Aoyama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "そばにいるね [Feat. SoulJa]",
+      "artist": "青山テルマ",
+      "has_synced": false,
+      "path": "select/07_そばにいるね_[Feat._SoulJa]_青山テルマ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "そばにいるね - Sobaniirune",
+      "artist": "Thelma Aoyama",
+      "has_synced": true,
+      "path": "select/08_そばにいるね_-_Sobaniirune_Thelma_Aoyama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "そばにいるね",
+      "artist": "青山テルマ Feat. SoulJa",
+      "has_synced": false,
+      "path": "select/09_そばにいるね_青山テルマ_Feat._SoulJa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "そばにいるね",
+      "artist": "SoulJa",
+      "has_synced": true,
+      "path": "select/10_そばにいるね_SoulJa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "そばにいるね",
+      "artist": "Aoyama, Thelma",
+      "has_synced": true,
+      "path": "select/11_そばにいるね_Aoyama,_Thelma.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "そばにいるね (留在我身边)",
+      "artist": "青山テルマ、SoulJa",
+      "has_synced": true,
+      "path": "select/12_そばにいるね_(留在我身边)_青山テルマ、SoulJa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そばにいるね",
+      "artist": "青山 テルマ feat. SoulJa",
+      "has_synced": false,
+      "path": "select/pl_01_そばにいるね_青山_テルマ_feat._SoulJa.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "そばにいるね",
+      "artist": "青山 テルマ feat. SoulJa",
+      "has_synced": false,
+      "path": "select/pl_02_そばにいるね_青山_テルマ_feat._SoulJa.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "そばにいるね SoulJa×Yukie",
+      "artist": "青山 テルマ feat. SoulJa",
+      "has_synced": false,
+      "path": "select/pl_03_そばにいるね_SoulJa×Yukie_青山_テルマ_feat._SoulJa.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "そばにいるね",
+      "artist": "青山 テルマ feat. SoulJa",
+      "has_synced": false,
+      "path": "select/pl_04_そばにいるね_青山_テルマ_feat._SoulJa.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "そばにいるね",
+      "artist": "青山 テルマ feat. SoulJa",
+      "has_synced": false,
+      "path": "select/pl_05_そばにいるね_青山_テルマ_feat._SoulJa.txt"
+    }
+  ]
+}
